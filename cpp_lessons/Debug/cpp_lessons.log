@@ -1,0 +1,4 @@
+﻿  cpp_lessons.cpp
+C:\Users\ilya\source\repos\cpp_lessons\cpp_lessons\cpp_lessons.cpp(79,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ilya\source\repos\cpp_lessons\cpp_lessons\cpp_lessons.cpp(82,30): warning C4018: <: несоответствие типов со знаком и без знака
+  cpp_lessons.vcxproj -> C:\Users\ilya\source\repos\cpp_lessons\Debug\cpp_lessons.exe
